@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chat</string>
+    <string name="server_client_id">YOUR_GOOGLE_OAUTH_CLIENT_ID</string>
+</resources>
